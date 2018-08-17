@@ -1,0 +1,14 @@
+{
+  "type": "theme",
+  "name": "StandardDark",
+  "title": {
+    "en_EN": "Standard Dark Theme"
+  },
+  "description": {
+    "en_EN": "Standard Dark Theme"
+  },
+  "files": [
+    "main.js",
+    "main.css"
+  ]
+}
