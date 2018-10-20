@@ -2,10 +2,12 @@
   "type": "theme",
   "name": "StandardDark",
   "title": {
-    "en_EN": "Standard Dark Theme"
+    "en_EN": "Standard Dark Theme",
+    "fr_FR": "Thème Noir Standard"
   },
   "description": {
-    "en_EN": "Standard Dark Theme"
+    "en_EN": "Standard Dark Theme",
+    "fr_FR": "Thème Noir Standard"
   },
   "files": [
     "main.js",
