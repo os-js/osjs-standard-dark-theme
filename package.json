@@ -1,6 +1,6 @@
 {
   "name": "@osjs/standard-dark-theme",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "OS.js v3 Standard Dark Theme",
   "files": [
     "dist/",
