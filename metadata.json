@@ -3,11 +3,13 @@
   "name": "StandardDarkTheme",
   "title": {
     "en_EN": "Standard Dark Theme",
-    "fr_FR": "Thème Noir Standard"
+    "fr_FR": "Thème Noir Standard",
+    "sl_SI": "Standardna Temna Tema"
   },
   "description": {
     "en_EN": "Standard Dark Theme",
-    "fr_FR": "Thème Noir Standard"
+    "fr_FR": "Thème Noir Standard",
+    "sl_SI": "Standardna Temna Tema"
   },
   "files": [
     "main.js",
