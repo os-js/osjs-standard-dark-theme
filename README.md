@@ -20,6 +20,6 @@ This is the Default Dark Theme module for OS.js v3
 ## Installation
 
 ```bash
-npm install --save @osjs/standard-dark-theme
+npm install --save --production @osjs/standard-dark-theme
 npm run package:discover
 ```
