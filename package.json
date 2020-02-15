@@ -9,7 +9,7 @@
   "scripts": {
     "test": "npm run eslint && npm run stylelint",
     "eslint": "eslint index.js",
-    "stylelint": "stylelint index.scss src/**/*.scss",
+    "stylelint": "stylelint index.scss src/*.scss",
     "build": "webpack",
     "watch": "webpack --watch",
     "prepublishOnly": "npm run test && rm -rf ./dist/* && NODE_ENV=production npm run build"
@@ -37,7 +37,7 @@
     "node-sass": "^4.13.1",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "sass-loader": "^8.0.2",
-    "stylelint": "^13.1.0",
+    "stylelint": "^13.2.0",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11"
   },
