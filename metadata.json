@@ -4,12 +4,14 @@
   "title": {
     "en_EN": "Standard Dark Theme",
     "fr_FR": "Thème Noir Standard",
-    "sl_SI": "Standardna Temna Tema"
+    "sl_SI": "Standardna Temna Tema",
+    "pt_BR": "Tema Dark Padrão"
   },
   "description": {
     "en_EN": "Standard Dark Theme",
     "fr_FR": "Thème Noir Standard",
-    "sl_SI": "Standardna Temna Tema"
+    "sl_SI": "Standardna Temna Tema",
+    "pt_BR": "Tema Dark Padrão"
   },
   "files": [
     "main.js",
